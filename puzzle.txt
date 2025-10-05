@@ -1,0 +1,9 @@
+size: 5x5
+amount: 4
+words: CAT,DOG,SUN,TREE
+grid:
+C A T X X
+X D X O X
+X X S X N
+X R E E E
+T X X X X
